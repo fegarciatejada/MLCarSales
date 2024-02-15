@@ -13,7 +13,7 @@ Annual Salary
 Credit Card Debt
 Net Worth
 The target variable for our model is the Car Purchase Amount.
-<!---
+
 ## Technologies Used
 
 Python 3.x
@@ -22,4 +22,4 @@ NumPy: For numerical operations.
 Matplotlib: For creating static, interactive, and animated visualizations in Python.
 Seaborn: For making statistical graphics in Python.
 TensorFlow: For building and training the ANN model (assumed but not listed in initial libraries).
---->
+
